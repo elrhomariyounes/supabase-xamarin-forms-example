@@ -3,7 +3,7 @@ using Postgrest.Models;
 
 namespace XamarinFormsTodo.Models
 {
-    [Table("todo")]
+    [Table("todos")]
     public class TodoItem : BaseModel
     {
         [PrimaryKey("id", false)]
