@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "XamarinFormsTodo": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "supabaseKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlhdCI6MTYxMzA5MjY4NSwiZXhwIjoxOTI4NjY4Njg1fQ.f1dQvLd_ToXcgYr-AZ_xsCZD0dwON3cIQFJy-ncX46Q",
+        "supabaseUrl": "https://fgfgkcpwidugsgxdbyyh.supabase.co"
+      }
+    }
+  }
+}
